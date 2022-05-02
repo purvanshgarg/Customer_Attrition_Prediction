@@ -8,3 +8,21 @@ The dataset was quite similar to this and the code really helped me in following
 
 # Reference:
      https://www.kaggle.com/code/gcdatkin/customer-attrition-prediction/notebook
+     
+# Description of files given in repository:
+
+## predictions.csv:
+It contains the predictions against the test data.
+
+## test.csv:
+test dataset
+
+## train.csv:
+train dataset
+
+## data_dictionary.docx:
+Explanation/Details regarding the data stored in each column of dataset.
+
+## Attrition_Prediction.ipynb:
+The solution for the problem through application of ml.
+
